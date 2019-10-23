@@ -28,7 +28,9 @@ th, td {
 
 }
 a{
+	text-align:left;
 	background-color:#123C69;
+	background-size:100px 200px;
 	display: block; 
 	text-decoration: none;
 }
