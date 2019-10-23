@@ -28,10 +28,6 @@ th, td {
    border-collapse: collapse;
 
 }
-.bleh th{
-	border:none;
-}
-
 .column {
   float: left;
 }
