@@ -9,14 +9,12 @@ h1 {
 	color:#EDC7B7;
   	text-align:center;
 	background-color:#AC3B61;
-	padding:1em;
 }
 img{
 	width:5em;
 	height:5em;
 }
 table{
-padding-left:2em;
   margin-left:auto;
   margin-right:auto;
   background-color:#BAB2B5;
@@ -41,6 +39,5 @@ a{
 	background-color:#123C69;
 	display: block; 
 	text-decoration: none;
-	padding-right:2em;
 }
 }
