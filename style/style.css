@@ -2,13 +2,13 @@ body {
    	padding-left:2em;
 	padding-right:2em;
 	font-family:Georgia, "Times New Roman", Times, serif;
-	background-color:lightblue;
+	background-color:#EEE2DC;
 }
 
 h1 {
-	color:black;
+	color:#EDC7B7;
   	text-align:center;
-	background-color:#797979;
+	background-color:#AC3B61;
 	padding:1em;
 }
 img{
@@ -17,14 +17,19 @@ img{
 	border:1px solid #ddd;
 	border-radius: 2em;
 }
-table {
-  border-collapse: collapse;
+table{
   margin-left:auto;
   margin-right:auto;
+  background-color:#BAB2B5;
 }
-
-table, th, td {
-  border: 1px solid black;
+th, td {
   padding: 1em;
   text-align: center;
+  border: 3px solid white;
+  border-radius:2px;
+   border-collapse: collapse;
+
+}
+.bleh th{
+	border:none;
 }
