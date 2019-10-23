@@ -37,4 +37,7 @@ th, td {
 .column.middle {
   width: 50%;
 }
+nav{
+  display: block; 
+	}
 }
