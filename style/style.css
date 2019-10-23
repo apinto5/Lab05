@@ -36,9 +36,7 @@ th, td {
 	display: block; 
 	text-decoration: none;	
 }
-.content{
-	display:inline-block;
-}
+
 .content table{
   text-align:center;
   align:center;
