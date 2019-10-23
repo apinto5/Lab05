@@ -28,10 +28,13 @@ th, td {
 
 }
 .navigation{
-	text-align:left;
 	background-color:#123C69;
-	display: block; 
 	text-decoration: none;
-	padding-right:1em;
+	background-size:1em 2em;
+}
+.navigation a{
+	text-align:left;
+	display: block; 
+	text-decoration: none;	
 }
 }
