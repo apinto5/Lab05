@@ -40,7 +40,7 @@ th, td {
 	display:inline-block;
 }
 .content table{
-  margin-left:auto;
+  margin-left:3em;
   margin-right:auto;
   background-color:#BAB2B5;
 }
