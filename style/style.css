@@ -32,11 +32,13 @@ th, td {
 	float:left;
 }
 .navigation a{
-	text-align:left;
+	text-align:center;
 	display: block; 
 	text-decoration: none;	
 	background-color:#BAB2B5;
 	padding:1em;
+	height:30px;
+	width:200px;
 }
 
 .content table{
