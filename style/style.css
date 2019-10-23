@@ -34,6 +34,7 @@ th, td {
 }
 .column.side {
   width: 25%;
+  padding-right:2em;
 }
 .column.middle {
   width: 50%;
