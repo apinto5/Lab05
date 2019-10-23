@@ -36,6 +36,7 @@ th, td {
 	display: block; 
 	text-decoration: none;	
 	background-color:#BAB2B5;
+	padding:1em;
 }
 
 .content table{
@@ -43,5 +44,5 @@ th, td {
   align:center;
   margin-left:auto;
   margin-right:auto;
-  background-color:#BAB2B5;;
+  background-color:#BAB2B5;
 }
