@@ -35,6 +35,7 @@ th, td {
 	text-align:left;
 	display: block; 
 	text-decoration: none;	
+	background-color:#BAB2B5;
 }
 
 .content table{
@@ -42,5 +43,5 @@ th, td {
   align:center;
   margin-left:auto;
   margin-right:auto;
-  background-color:#BAB2B5;
+  background-color:#BAB2B5;;
 }
