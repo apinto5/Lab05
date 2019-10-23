@@ -27,15 +27,6 @@ th, td {
   border-collapse: collapse;
 
 }
-.column {
-  float: left;
-}
-.column.side {
-  width: 25%;
-}
-.column.middle {
-  width: 50%;
-}
 a{
 	background-color:#123C69;
 	display: block; 
