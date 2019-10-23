@@ -30,9 +30,8 @@ th, td {
 .navigation{
 	background-color:#123C69;
 	text-decoration: none;
-	background-size:1em 2em;
-	margin-right:auto;
-	margin-left:auto;
+	height:200px;
+	width:150px;
 }
 .navigation a{
 	text-align:left;
