@@ -22,7 +22,7 @@ padding-left:15px;
   background-color:#BAB2B5;
 }
 th, td {
-  padding: 1em;
+  padding-right: 1em;
   text-align: center;
   border: 3px solid white;
   border-radius:2px;
