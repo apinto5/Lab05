@@ -22,7 +22,6 @@ padding-left:15px;
   background-color:#BAB2B5;
 }
 th, td {
-  padding-right: 1em;
   text-align: center;
   border: 3px solid white;
   border-radius:2px;
@@ -34,7 +33,6 @@ th, td {
 }
 .column.side {
   width: 25%;
-  padding-right:2em;
 }
 .column.middle {
   width: 50%;
@@ -42,7 +40,7 @@ th, td {
 a{
 	background-color:#123C69;
 	display: block; 
-	padding: 62px;
+	padding: 5px;
 	text-decoration: none;
 	
 }
