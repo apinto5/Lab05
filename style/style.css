@@ -16,11 +16,9 @@ img{
 	height:5em;
 }
 table{
-padding-left:1em;
   margin-left:auto;
   margin-right:auto;
   background-color:#BAB2B5;
-  float:left;
 }
 th, td {
   text-align: center;
@@ -34,7 +32,6 @@ th, td {
 	text-decoration: none;
 	height:500px;
 	width:325px;
-	padding-right:2em;
 	padding-bottom:0em;
 	float:left;
 }
