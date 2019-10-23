@@ -19,6 +19,8 @@ table{
   margin-left:auto;
   margin-right:auto;
   background-color:#BAB2B5;
+  float:left;
+
 }
 th, td {
   text-align: center;
@@ -33,6 +35,7 @@ th, td {
 	height:500px;
 	width:375px;
 	padding-bottom:0em;
+	float:left;
 }
 .navigation a{
 	text-align:left;
