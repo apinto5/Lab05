@@ -33,6 +33,7 @@ th, td {
 }
 .column.side {
   width: 25%;
+  background-color:#123C69;
 }
 .column.middle {
   width: 50%;
