@@ -32,6 +32,7 @@ th, td {
 	text-decoration: none;
 	height:500px;
 	width:375px;
+	padding-bottom:0em;
 }
 .navigation a{
 	text-align:left;
