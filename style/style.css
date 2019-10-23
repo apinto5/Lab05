@@ -27,10 +27,11 @@ th, td {
   border-collapse: collapse;
 
 }
-a{
+.navigation{
 	text-align:left;
 	background-color:#123C69;
 	display: block; 
 	text-decoration: none;
+	padding-right:1em;
 }
 }
