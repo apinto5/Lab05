@@ -38,6 +38,8 @@ th, td {
   width: 50%;
 }
 nav{
-  display: block; 
-	}
+	display: block; 
+	 padding: 12px;
+	text-decoration: none;
+}
 }
